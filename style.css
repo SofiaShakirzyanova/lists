@@ -1,0 +1,64 @@
+body{
+background-image: url("ежик в тумане.jpg");
+background-attachment: fixed;
+background-size: cover;
+text-align: center;
+}
+h1{
+   text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 10px rgba(15, 223, 136, 0.438);
+    font-size: 60px;
+    font-family: 'Caveat', cursive;
+}
+li{
+    font-size: 30px;
+    color: #86e20d;
+    font-family: 'Caveat', cursive;
+}
+ul{
+    background-color: #ffffff;
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    text-shadow:0 0 10px  #fcc205cb;
+    margin-bottom: 30px;
+}
+img{
+    border-radius: 20px;
+    height: 400px;
+    object-fit: cover;
+    box-shadow: 0 0 10px #d0ee4acb;
+}
+ol{
+    background-color: #98f895;
+    text-align: center;
+   width: 400px; 
+   margin: auto;
+   border-radius: 20px;
+   text-shadow:0 0 10px #e8eb5b;
+   margin-bottom: 30px;
+}
+ol li{
+   color: #ffffff; 
+}
+#tykan {
+    width: 800px;
+}
+#pavlin {
+    box-shadow:0 0 10px #f0062d;
+}
+.foreign{
+    box-shadow: 0 0 10px #6200ff;
+}
+
+/* 1. Повторение
+2. Добавить еще одну картинку пельмешек */
+
+
+
+
+
+
+
